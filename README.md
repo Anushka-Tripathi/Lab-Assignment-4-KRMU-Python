@@ -4,8 +4,8 @@
 Course Information
 Course: Programming for Problem Solving using Python
 Assignment: Lab Assignment 4 - Weather Data Visualizer
-Student Name: [Your Name]
-Submission Date: November 30, 2024
+Student Name: [Anushka Tripathi]
+Submission Date: December 2, 2025
 
 📋 Project Overview
 This project analyzes real-world weather data to derive meaningful insights through statistical analysis and visualization. The analysis focuses on temperature trends, rainfall patterns, and humidity correlations to support climate awareness and campus sustainability initiatives.
