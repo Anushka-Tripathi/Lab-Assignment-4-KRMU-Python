@@ -1,5 +1,6 @@
 # Lab-Assignment-4-KRMU-Python
-Weather Data Visualizer 🌦️
+# Weather Data Visualizer 🌦️
+
 Course Information
 Course: Programming for Problem Solving using Python
 Assignment: Lab Assignment 4 - Weather Data Visualizer
