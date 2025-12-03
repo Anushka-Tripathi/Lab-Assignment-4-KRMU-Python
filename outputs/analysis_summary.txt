@@ -1,0 +1,98 @@
+WEATHER DATA ANALYSIS SUMMARY REPORT
+============================================================
+
+Analysis Date: 2025-12-04 01:27:24
+Dataset Size: 91320 records, 12 features
+Date Range: 2000-01-01 00:00:00 to 2024-12-31 00:00:00
+
+STATISTICAL SUMMARY
+------------------------------------------------------------
+
+temperature_2m_max:
+  Mean: 30.90
+  Median: 30.70
+  Std: 4.77
+  Min: 12.30
+  Max: 46.40
+  Range: 34.10
+
+temperature_2m_min:
+  Mean: 21.13
+  Median: 22.10
+  Std: 5.29
+  Min: 1.70
+  Max: 34.40
+  Range: 32.70
+
+apparent_temperature_max:
+  Mean: 33.06
+  Median: 33.60
+  Std: 5.99
+  Min: 10.20
+  Max: 49.40
+  Range: 39.20
+
+apparent_temperature_min:
+  Mean: 22.86
+  Median: 24.00
+  Std: 7.33
+  Min: -1.10
+  Max: 37.80
+  Range: 38.90
+
+precipitation_sum:
+  Mean: 3.09
+  Median: 0.00
+  Std: 9.16
+  Min: 0.00
+  Max: 339.90
+  Range: 339.90
+
+rain_sum:
+  Mean: 3.09
+  Median: 0.00
+  Std: 9.16
+  Min: 0.00
+  Max: 339.90
+  Range: 339.90
+
+weather_code:
+  Mean: 24.49
+  Median: 3.00
+  Std: 27.27
+  Min: 0.00
+  Max: 65.00
+  Range: 65.00
+
+wind_speed_10m_max:
+  Mean: 15.52
+  Median: 14.80
+  Std: 5.21
+  Min: 3.60
+  Max: 68.90
+  Range: 65.30
+
+wind_gusts_10m_max:
+  Mean: 32.18
+  Median: 31.00
+  Std: 9.58
+  Min: 10.40
+  Max: 142.90
+  Range: 132.50
+
+wind_direction_10m_dominant:
+  Mean: 196.76
+  Median: 223.00
+  Std: 103.00
+  Min: 0.00
+  Max: 360.00
+  Range: 360.00
+
+
+KEY INSIGHTS AND TRENDS
+------------------------------------------------------------
+1. Temperature patterns show seasonal variations
+2. Monthly aggregations reveal peak periods
+3. Correlation analysis shows relationships between variables
+
+All visualizations have been saved in the 'plots' directory.
